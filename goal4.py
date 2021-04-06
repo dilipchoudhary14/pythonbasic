@@ -5,7 +5,7 @@ l=[]
 for i in range(numbers):
     num=int(input("enter no-"))
     l.append(num)
-
+sffsdfdf
 print(l)
 
 def pick(l,numbers):
